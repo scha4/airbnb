@@ -2,7 +2,7 @@
   "name": "rp1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://scha4.github.io/airbnb-Clone",
+  "homepage": "https://scha4.github.io/airbnb-Clone",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
